@@ -1,3 +1,6 @@
+<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/2ab9f9a3-69de-443b-92d6-76b4ab057b00" />
+
+
 <h1 align="center">Hola 👋, soy Pedro Rodríguez</h1>
 <h3 align="center">Biólogo especializado en Bioinformática</h3>
 
