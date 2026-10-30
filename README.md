@@ -1,14 +1,12 @@
 <img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/2ab9f9a3-69de-443b-92d6-76b4ab057b00" />
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pedro-manuel-rodriguez-santos/" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/48/FFFFFF/linkedin.png"
-         width="35" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/pedro-manuel-rodriguez-santos/">
+    <img src="https://img.shields.io/badge/-%20-FFFFFF?style=flat&logo=linkedin&logoColor=000000" height="35"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Pedro-MRS" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/48/FFFFFF/github.png"
-         width="35" alt="GitHub"/>
+  &nbsp;
+  <a href="https://github.com/Pedro-MRS">
+    <img src="https://img.shields.io/badge/-%20-FFFFFF?style=flat&logo=github&logoColor=000000" height="35"/>
   </a>
 </p>
 
