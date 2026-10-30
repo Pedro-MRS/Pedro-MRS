@@ -12,16 +12,8 @@
   </a>
 </p>
 
-<h1 align="center">Hola 👋, soy Pedro Rodríguez</h1>
-<h3 align="center">Biólogo especializado en Bioinformática</h3>
+👉 Sobre mí
 
-- 🔭 Trabajo como **Operador de Seguridad**
-
-- 🌱 Graduado en **Biología y Bioinformática**
-
-- 🤝 Busco trabajo de **Bioinformático**
-
-- 📫 Escríbeme a **hola@Pedro-MRS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
