@@ -1,6 +1,3 @@
-<!--
-**Pedro-MRS/Pedro-MRS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hola 👋, soy Pedro Rodríguez</h1>
 <h3 align="center">Biólogo especializado en Bioinformática</h3>
 
